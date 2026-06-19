@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "los-broders.aternos.me",
+    "ip": "los-broders.aternos.me:11396",
     "port": 11396,
     "version": "1.21.11"
   },
