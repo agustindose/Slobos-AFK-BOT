@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": " Bot",
   "bot-account": {
     "username": "Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "los-broders.aternos.me:11396",
-    "port": 11396,
+    "ip": "los_broders.aternos.me",
+    "port": 32098,
     "version": "1.21.11"
   },
   "position": {
