@@ -1,7 +1,7 @@
 {
-  "name": " Bot",
+  "name": "BOT",
   "bot-account": {
-    "username": "Bot",
+    "username": "BOT 24/7",
     "password": "",
     "type": "offline"
   },
@@ -30,15 +30,15 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hola. soy el bot que mantiene este server abierto",
+        "soy un bot contratado por.AJENTE1006YT!",
+        "si tengo alguna falla o me desconecto. contacata al creador de el server"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 200000000000000000000,
+    "max-reconnect-delay": 2000000000000,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
@@ -69,8 +69,8 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": false,
-    "auto-eat": false
+    "attack-mobs": true,
+    "auto-eat": true
   },
   "beds": {
     "pick-up-day": true,
@@ -81,7 +81,7 @@
     "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
